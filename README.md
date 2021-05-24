@@ -1,0 +1,2 @@
+# SpaceToast
+Hyper Burn Token
